@@ -2,7 +2,6 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML/CSS/JS
 - 💞️ I’m looking to collaborate on webiste templates.
-- 📫 You can reach me at designstudioiceland@gmail.com
 
 <!---
 Minsc68/Minsc68 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
